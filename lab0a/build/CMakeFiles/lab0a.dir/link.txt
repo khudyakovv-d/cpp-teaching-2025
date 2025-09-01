@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab0a.dir/main.cpp.o CMakeFiles/lab0a.dir/src/module2/module2.cpp.o -o lab0a  src/module1/libmodule1.a

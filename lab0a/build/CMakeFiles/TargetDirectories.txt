@@ -1,0 +1,6 @@
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/CMakeFiles/lab0a.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/CMakeFiles/edit_cache.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/CMakeFiles/rebuild_cache.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/src/module1/CMakeFiles/module1.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/src/module1/CMakeFiles/edit_cache.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/src/module1/CMakeFiles/rebuild_cache.dir

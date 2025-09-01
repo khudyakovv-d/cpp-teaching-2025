@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build",
+  "command": "/usr/bin/c++  -I/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module1 -I/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module2 -g -arch arm64 -o CMakeFiles/lab0a.dir/main.cpp.o -c /Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/main.cpp",
+  "file": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/main.cpp",
+  "output": "CMakeFiles/lab0a.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build",
+  "command": "/usr/bin/c++  -I/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module1 -I/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module2 -g -arch arm64 -o CMakeFiles/lab0a.dir/src/module2/module2.cpp.o -c /Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module2/module2.cpp",
+  "file": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module2/module2.cpp",
+  "output": "CMakeFiles/lab0a.dir/src/module2/module2.cpp.o"
+},
+{
+  "directory": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/src/module1",
+  "command": "/usr/bin/c++   -g -arch arm64 -o CMakeFiles/module1.dir/module1.cpp.o -c /Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module1/module1.cpp",
+  "file": "/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/src/module1/module1.cpp",
+  "output": "src/module1/CMakeFiles/module1.dir/module1.cpp.o"
+}
+]

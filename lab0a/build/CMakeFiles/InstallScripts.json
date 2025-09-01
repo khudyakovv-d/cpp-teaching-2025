@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/cmake_install.cmake",
+		"/Users/dakhudyakov/NSU/cpp-teaching-2025/lab0a2/build/src/module1/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
