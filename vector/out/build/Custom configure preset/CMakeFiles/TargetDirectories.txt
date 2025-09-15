@@ -1,0 +1,3 @@
+/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/vector.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/edit_cache.dir
+/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/rebuild_cache.dir
