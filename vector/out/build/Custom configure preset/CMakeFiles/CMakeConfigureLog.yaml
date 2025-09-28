@@ -1931,3 +1931,231 @@ events:
       LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
       TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.0.3.4)
 ...
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/FindPython/Support.cmake:2137 (find_program)"
+      - "/opt/homebrew/share/cmake/Modules/FindPython.cmake:706 (include)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/cmake/internal_utils.cmake:249 (find_package)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/CMakeLists.txt:86 (include)"
+    mode: "program"
+    variable: "_Python_EXECUTABLE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python3.14mu"
+      - "python3.14m"
+      - "python3.14u"
+      - "python3.14"
+      - "python3.14dmu"
+      - "python3.14dm"
+      - "python3.14du"
+      - "python3.14d"
+      - "python3"
+      - "python"
+    candidate_directories:
+      - "/Users/dakhudyakov/anaconda3/bin/"
+      - "/Users/dakhudyakov/anaconda3/Scripts/"
+      - "/Users/dakhudyakov/anaconda3/"
+    searched_directories:
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14mu"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14m"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14u"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14dmu"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14dm"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14du"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.14d"
+      - "/Users/dakhudyakov/anaconda3/bin/python3"
+      - "/Users/dakhudyakov/anaconda3/bin/python"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14mu"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14m"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14u"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14dmu"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14dm"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14du"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3.14d"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python3"
+      - "/Users/dakhudyakov/anaconda3/Scripts/python"
+      - "/Users/dakhudyakov/anaconda3/python3.14mu"
+      - "/Users/dakhudyakov/anaconda3/python3.14m"
+      - "/Users/dakhudyakov/anaconda3/python3.14u"
+      - "/Users/dakhudyakov/anaconda3/python3.14"
+      - "/Users/dakhudyakov/anaconda3/python3.14dmu"
+      - "/Users/dakhudyakov/anaconda3/python3.14dm"
+      - "/Users/dakhudyakov/anaconda3/python3.14du"
+      - "/Users/dakhudyakov/anaconda3/python3.14d"
+      - "/Users/dakhudyakov/anaconda3/python3"
+      - "/Users/dakhudyakov/anaconda3/python"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "/Users/dakhudyakov/.rbenv/shims"
+        - "/Users/dakhudyakov/.rbenv/bin"
+        - "/Users/dakhudyakov/anaconda3/bin"
+        - "/Users/dakhudyakov/anaconda3/condabin"
+        - "/Users/dakhudyakov/.nvm/versions/node/v22.16.0/bin"
+        - "/opt/homebrew/opt/ruby/bin"
+        - "/Library/Ruby/Gems/2.6.0/bin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/Library/Apple/usr/bin"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Users/dakhudyakov/go/bin"
+        - "/Users/dakhudyakov/sdk/go1.21.3/bin"
+        - "/opt/homebrew/opt/fzf/bin"
+      CMAKE_INSTALL_PREFIX: "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/install/Custom configure preset"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Applications/Xcode_16_3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/install/Custom configure preset"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_APPBUNDLE_PATH:
+        - "/Users/dakhudyakov/Applications"
+        - "/Applications"
+        - "/Applications/Xcode_16_3.app/Contents/Applications"
+        - "/Applications/Xcode_16_3.app/Contents/Developer/Applications"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/FindPython/Support.cmake:2137 (find_program)"
+      - "/opt/homebrew/share/cmake/Modules/FindPython.cmake:706 (include)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/cmake/internal_utils.cmake:249 (find_package)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/CMakeLists.txt:86 (include)"
+    mode: "program"
+    variable: "_Python_EXECUTABLE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python3.11mu"
+      - "python3.11m"
+      - "python3.11u"
+      - "python3.11"
+      - "python3.11dmu"
+      - "python3.11dm"
+      - "python3.11du"
+      - "python3.11d"
+      - "python3"
+      - "python"
+    candidate_directories:
+      - "/Users/dakhudyakov/anaconda3/bin/"
+      - "/Users/dakhudyakov/anaconda3/Scripts/"
+      - "/Users/dakhudyakov/anaconda3/"
+    searched_directories:
+      - "/Users/dakhudyakov/anaconda3/bin/python3.11mu"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.11m"
+      - "/Users/dakhudyakov/anaconda3/bin/python3.11u"
+    found: "/Users/dakhudyakov/anaconda3/bin/python3.11"
+    search_context:
+      ENV{PATH}:
+        - "/Users/dakhudyakov/.rbenv/shims"
+        - "/Users/dakhudyakov/.rbenv/bin"
+        - "/Users/dakhudyakov/anaconda3/bin"
+        - "/Users/dakhudyakov/anaconda3/condabin"
+        - "/Users/dakhudyakov/.nvm/versions/node/v22.16.0/bin"
+        - "/opt/homebrew/opt/ruby/bin"
+        - "/Library/Ruby/Gems/2.6.0/bin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/Library/Apple/usr/bin"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Users/dakhudyakov/go/bin"
+        - "/Users/dakhudyakov/sdk/go1.21.3/bin"
+        - "/opt/homebrew/opt/fzf/bin"
+      CMAKE_INSTALL_PREFIX: "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/install/Custom configure preset"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Applications/Xcode_16_3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/install/Custom configure preset"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_APPBUNDLE_PATH:
+        - "/Users/dakhudyakov/Applications"
+        - "/Applications"
+        - "/Applications/Xcode_16_3.app/Contents/Applications"
+        - "/Applications/Xcode_16_3.app/Contents/Developer/Applications"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "/opt/homebrew/share/cmake/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "/opt/homebrew/share/cmake/Modules/FindThreads.cmake:97 (check_c_source_compiles)"
+      - "/opt/homebrew/share/cmake/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/cmake/internal_utils.cmake:65 (find_package)"
+      - "out/build/Custom configure preset/_deps/googletest-src/googletest/CMakeLists.txt:88 (config_compiler_and_linker)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/CMakeScratch/TryCompile-gRdj66"
+      binary: "/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/CMakeScratch/TryCompile-gRdj66"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_OSX_ARCHITECTURES: ""
+      CMAKE_OSX_DEPLOYMENT_TARGET: ""
+      CMAKE_OSX_SYSROOT: ""
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/CMakeScratch/TryCompile-gRdj66'
+        
+        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_14ca0
+        [1/2] /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -arch arm64 -MD -MT CMakeFiles/cmTC_14ca0.dir/src.c.o -MF CMakeFiles/cmTC_14ca0.dir/src.c.o.d -o CMakeFiles/cmTC_14ca0.dir/src.c.o -c '/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/CMakeFiles/CMakeScratch/TryCompile-gRdj66/src.c'
+        [2/2] : && /usr/bin/cc -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_14ca0.dir/src.c.o -o cmTC_14ca0   && :
+        
+      exitCode: 0
+...

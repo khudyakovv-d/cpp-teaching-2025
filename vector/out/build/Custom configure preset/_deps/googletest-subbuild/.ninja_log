@@ -1,0 +1,21 @@
+# ninja log v7
+0	14	1759080632061586457	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	876245d930ce4f10
+0	14	1759080632061586457	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	876245d930ce4f10
+14	1593	1759080633640589197	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9d62bbfde826b33b
+14	1593	1759080633640589197	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9d62bbfde826b33b
+1593	1608	1759080633655723208	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	dd93b9d656a8d55e
+1593	1608	1759080633655723208	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	dd93b9d656a8d55e
+1608	1622	1759080633669736430	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	66b75b029015aabb
+1608	1622	1759080633669736430	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	66b75b029015aabb
+1622	1636	1759080633683459028	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b25096ee9d175e45
+1622	1636	1759080633683459028	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b25096ee9d175e45
+1636	1650	1759080633697703541	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	1a32976d6895fc29
+1636	1650	1759080633697703541	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	1a32976d6895fc29
+1650	1664	1759080633711249555	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	166158c62b07afc1
+1650	1664	1759080633711249555	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	166158c62b07afc1
+1664	1677	1759080633724388112	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	48686260c7cb5f55
+1664	1677	1759080633724388112	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	48686260c7cb5f55
+1677	1695	1759080633742054993	CMakeFiles/googletest-populate-complete	5cb464cec1c5435c
+1677	1695	1759080633742054993	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5cb464cec1c5435c
+1677	1695	1759080633742054993	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	5cb464cec1c5435c
+1677	1695	1759080633742054993	/Users/dakhudyakov/NSU/cpp-teaching-2025/vector/out/build/Custom configure preset/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5cb464cec1c5435c
